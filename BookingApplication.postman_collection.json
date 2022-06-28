@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "https://restful-booker.herokuapp.com/booking",
+			"name": "get-booking",
 			"request": {
 				"auth": {
 					"type": "bearer",
@@ -37,7 +37,7 @@
 			"response": []
 		},
 		{
-			"name": "https://restful-booker.herokuapp.com/booking/2",
+			"name": "get-bookingID",
 			"request": {
 				"auth": {
 					"type": "bearer",
